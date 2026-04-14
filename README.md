@@ -1,40 +1,59 @@
-# Keerthana 👋
+# Hi, I'm Keerthana 👋
 
-Full Stack Developer  
-Java • Spring Boot • React • AWS  
-
----
-
-## About
-I build scalable backend systems and clean user-facing applications.  
-Focused on microservices, APIs, and real-time data systems.
+💻 Senior Full Stack Developer | Java | Spring Boot | React  
+☁️ AWS | Microservices | Kafka | Distributed Systems  
+📍 Open to opportunities across USA  
 
 ---
 
-## Stack
-Java, Spring Boot, React, Angular, AWS, Kafka, PostgreSQL  
+## 🚀 About Me
+- 5+ years building scalable enterprise applications
+- Strong experience in Java, Spring Boot, React, and microservices
+- Hands-on with event-driven systems, REST APIs, and cloud-native development
+- Passionate about building secure, scalable, and maintainable applications
 
 ---
 
-## Work
-- Designed backend services for high-traffic applications  
-- Built REST APIs and event-driven systems  
-- Worked with cloud deployments and distributed architecture  
+## 🛠 Tech Stack
+**Frontend:** React, Angular, TypeScript, JavaScript  
+**Backend:** Java, Spring Boot, Node.js  
+**Cloud:** AWS (EC2, S3, Lambda)  
+**Messaging:** Kafka, ActiveMQ  
+**Database:** PostgreSQL, MongoDB, Oracle  
+**DevOps:** Docker, Kubernetes, Jenkins  
+**Tools:** Git, GitHub, Maven, REST APIs
 
 ---
 
-## Projects
-- Microservice APIs (Spring Boot)  
-- Frontend apps (React)  
-- Event streaming (Kafka)  
-- API modeling (Smithy)  
+## 💼 Featured Projects
+
+### 🔹 Spring Boot Microservice
+- Built REST APIs using Spring Boot
+- Implemented JWT authentication and exception handling
+- Designed scalable layered architecture
+
+### 🔹 React Task Manager App
+- Developed responsive UI using React and TypeScript
+- Integrated APIs using Axios
+- Implemented CRUD operations
+
+### 🔹 Kafka Event Streaming
+- Built producer-consumer model using Kafka
+- Processed real-time events
+- Designed event-driven architecture
+
+### 🔹 API Modeling with Smithy
+- Designed API contracts using Smithy models
+- Used Smithy plugins to generate client and server code
+- Automated API development and reduced boilerplate
+- Generated OpenAPI and SDK artifacts for integration
+
+🛠 Tech: Smithy, Java, REST APIs
 
 ---
 
-## Currently
-Building cloud-native and scalable systems  
+## 📫 Connect With Me
+- LinkedIn: add-your-link-here
+- Email: add-your-email-here
 
----
-
-## Contact
-keerthanakondabathini.22@gmail.com
+⭐ Currently building scalable microservices and cloud-native applications
