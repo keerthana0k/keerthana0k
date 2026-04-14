@@ -1,16 +1,40 @@
-## Hi there 👋
+# Keerthana 👋
 
-<!--
-**keerthana0k/keerthana0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer  
+Java • Spring Boot • React • AWS  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+I build scalable backend systems and clean user-facing applications.  
+Focused on microservices, APIs, and real-time data systems.
+
+---
+
+## Stack
+Java, Spring Boot, React, Angular, AWS, Kafka, PostgreSQL  
+
+---
+
+## Work
+- Designed backend services for high-traffic applications  
+- Built REST APIs and event-driven systems  
+- Worked with cloud deployments and distributed architecture  
+
+---
+
+## Projects
+- Microservice APIs (Spring Boot)  
+- Frontend apps (React)  
+- Event streaming (Kafka)  
+- API modeling (Smithy)  
+
+---
+
+## Currently
+Building cloud-native and scalable systems  
+
+---
+
+## Contact
+keerthanakondabathini.22@gmail.com
