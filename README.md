@@ -1,3 +1,5 @@
+![banner](https://images.unsplash.com/photo-1518779578993-ec3579fee39f)
+
 # Hi, I'm Keerthana 👋
 
 💻 Senior Full Stack Developer | Java | Spring Boot | React  
@@ -7,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-- 5+ years building scalable enterprise applications
+- 10+ years building scalable enterprise applications
 - Strong experience in Java, Spring Boot, React, and microservices
 - Hands-on with event-driven systems, REST APIs, and cloud-native development
 - Passionate about building secure, scalable, and maintainable applications
@@ -53,7 +55,6 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: add-your-link-here
-- Email: add-your-email-here
+- Email: keerthanakondabathini.22@gmail.com
 
 ⭐ Currently building scalable microservices and cloud-native applications
