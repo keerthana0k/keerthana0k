@@ -1,5 +1,3 @@
-![banner](https://images.unsplash.com/photo-1518779578993-ec3579fee39f)
-
 # Hi, I'm Keerthana 👋
 
 💻 Senior Full Stack Developer | Java | Spring Boot | React  
